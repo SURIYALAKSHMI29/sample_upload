@@ -5,6 +5,10 @@ insert->add->commit->push
 
 git branch -a => list out all branches of current repo
 
+git branch branch_name // creates a new branch
+
 git checkout branch_name => to switch branches
 
 git merge branch2_name // to merge a branch with main
+
+
