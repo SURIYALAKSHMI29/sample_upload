@@ -4,3 +4,5 @@ insert->add->commit->push
 
 
 git branch -a => list out all branches of current repo
+
+git checkout branch_name => to switch branches
